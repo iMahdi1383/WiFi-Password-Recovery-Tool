@@ -1,15 +1,17 @@
-# Windows Wi-Fi password finder!
+# Windows Wi-Fi Password Finder
 
-Having trouble remembering your Wi-Fi password? It is no longer a problem. Using this tool, if you have access to a Windows operating system connected to Wi-Fi, you can get the passwords of that system to connect to Wi-Fi and use it to connect to Wi-Fi with another device.
-
+Are you struggling to remember your Wi-Fi password? Worry no more! With this tool, you can easily retrieve the password of a Windows operating system connected to Wi-Fi. You can then use this password to connect other devices to the Wi-Fi network.
 
 ## How to Use
 
-1. Right-click on the "**App.ps1**". Then select "**Run with PowerShell**".
-2. Open the created "**wifi.txt**" file. Enjoy it!
+1. Right-click on the "**App.ps1**" file.
+2. Select "**Run with PowerShell**."
 
->**Can't find "Run with PowerShell" ?**  If your system does not have the option "Run with PowerShell" when you right-click on the "App.ps1" file, you need to install "Microsoft PowerShell".  [How do I **install PowerShell** on Windows?](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows)
+3. Open the newly created "**wifi.txt**" file.
+4. Enjoy the convenience of having your Wi-Fi password at your fingertips!
 
+> **Can't find "Run with PowerShell"?** If you don't see the "Run with PowerShell" option when you right-click the "App.ps1" file, you may need to install "Microsoft PowerShell." Here's a guide on [how to install PowerShell on Windows](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows).
 
 ## Terms of Use
- **This file is a tool to help people**. The consequences of inappropriate use of this file are with the user.
+
+This file is designed as a helpful tool for users. However, please be aware that any misuse of this file is solely the responsibility of the user.
